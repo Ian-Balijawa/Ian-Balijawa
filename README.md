@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ian balijawa</h1>
-<h3 align="center">A passionate backend NodeJS, rest and graphql developer from Kampala,Uganda</h3>
+<h1 align="center">You reached Ian👋, Ian Balijawa</h1>
+<h3 align="center">A passionate backend NodeJS, rest, python and graphql developer and machine learning enthusiast from Kampala,Uganda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ian-balijawa&label=Profile%20views&color=0e75b6&style=flat" alt="ian-balijawa" /> </p>
 
