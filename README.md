@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian-balijawa" alt="ian-balijawa" /></a> </p>
 
-- 🔭 I’m currently working on accessadvancedsystems website and napeia backend **accessadvancedsystems**
-
 - 🌱 I’m currently learning graphq and typescript **expressjs**
 
 - 📫 How to reach me **ianbalijawa16@gmail.com**
