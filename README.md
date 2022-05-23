@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian-balijawa" alt="ian-balijawa" /></a> </p>
 
-- 🌱 I’m currently learning graphq and typescript **expressjs**
-
 - 📫 How to reach me **ianbalijawa16@gmail.com**
 
 ### Blogs posts
@@ -18,7 +16,7 @@
 <a href="https://codepen.io/ian balijawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ian balijawa" height="30" width="40" /></a>
 <a href="https://dev.to/ianbalijawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ianbalijawa" height="30" width="40" /></a>
 <a href="https://twitter.com/ianbalijawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ianbalijawa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ian balijawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian balijawa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ian-balijawa-10369a181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian balijawa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ian balijawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ian balijawa" height="30" width="40" /></a>
 <a href="https://fb.com/ianbalijawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianbalijawa" height="30" width="40" /></a>
 <a href="https://dribbble.com/ian balijawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ian balijawa" height="30" width="40" /></a>
