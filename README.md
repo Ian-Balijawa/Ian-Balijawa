@@ -1,15 +1,8 @@
-<h1 align="center">You reached Ian👋, Ian Balijawa</h1>
-<h3 align="center">A passionate backend NodeJS, rest and graphql api developer and machine learning enthusiast from Kampala,Uganda</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ian-balijawa&label=Profile%20views&color=0e75b6&style=flat" alt="ian-balijawa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian-balijawa" alt="ian-balijawa" /></a> </p>
 
 - 📫 How to reach me **ianbalijawa16@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
