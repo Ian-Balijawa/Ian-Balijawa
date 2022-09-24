@@ -13,7 +13,10 @@
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ian-balijawa&label=Profile%20views&color=0e75b6&style=flat" alt="ian-balijawa" /> </p>
+<p align="left">
+<!--   <img src="https://komarev.com/ghpvc/?username=ian-balijawa&label=Profile%20views&color=0e75b6&style=flat" alt="ian-balijawa" /> -->
+ <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views">
+</p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Ian-Balijawa/Ian-Balijawa/main/code.gif" width="500" height="320" />
 <br />
 hi, i'm Ian, a passionate full stack web developer and a software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
