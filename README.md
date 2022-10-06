@@ -12,10 +12,8 @@
 <br>
 <br>
 <br>
-
 <p align="left">
-<!--   <img src="https://komarev.com/ghpvc/?username=ian-balijawa&label=Profile%20views&color=0e75b6&style=flat" alt="ian-balijawa" /> -->
- <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=ian-balijawa&label=Profile%20views&color=0e75b6&style=flat" alt="ian-balijawa" />
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Ian-Balijawa/Ian-Balijawa/main/code.gif" width="500" height="320" />
 <br />
