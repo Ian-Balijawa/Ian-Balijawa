@@ -21,18 +21,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ian-balijawa&label=Profile%20views&color=0e75b6&style=flat" alt="ian-balijawa" />
 </p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Ian-Balijawa/Ian-Balijawa/main/code.gif" width="500" height="320" />
-<br />
-hi, i'm Ian, a passionate full stack web developer and a software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-  
-- 💼 any freelance work? do reach, [email](mailto:ianbalijawa.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
-
--   📫 How to reach me **ianbalijawa16@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://pen.io/ian balijawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ian balijawa" height="30" width="40" /></a>
 <a href="https://dev.to/ianbalijawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ianbalijawa" height="30" width="40" /></a>
