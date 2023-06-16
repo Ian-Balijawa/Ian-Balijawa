@@ -25,13 +25,4 @@ Other                   4 mins                                      ░░░░
 ```
 
 
-<!-- TODO-IST:START -->
-
-🏆 7,995 Karma Points  
-🌸 Completed 0 tasks today  
-✅ Completed 673 tasks so far  
-⏳ Longest streak is 10 days
-
-<!-- TODO-IST:END -->
-
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ian-Balijawa&show_icons=true&theme=gotham" alt="ianbalijawa" />
