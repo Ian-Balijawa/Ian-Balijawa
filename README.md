@@ -12,17 +12,3 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ian-balijawa&label=Profile%20views&color=0e75b6&style=flat" alt="ian-balijawa" />
 </p>
-
-```text
-TypeScript              11 hrs 23 mins                              ████████████████▓░░░░░░░                   70.74 %
-JavaScript              2 hrs 29 mins                               ███░░░░░░░░░░░░░░░░░░░░░                   15.49 %
-React                   9 hrs 23 mins                               ████████████████▓█▓█▓░░░                   75.74 %
-NodeJS                  5 hrs 43 mins                               ███████████░░░░░░░░░░░░░                   50.74 %
-HTML                    1 hr 3 mins                                 ▓░░░░░░░░░░░░░░░░░░░░░░░                   06.60 %
-JSON                    34 mins                                     ░░░░░░░░░░░░░░░░░░░░░░░░                   03.54 %
-Docker                  24 mins                                     ░░░░░░░░░░░░░░░░░░░░░░░░                   02.51 %
-Other                   4 mins                                      ░░░░░░░░░░░░░░░░░░░░░░░░                   00.45 %
-```
-
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ian-Balijawa&show_icons=true&theme=gotham" alt="ianbalijawa" />
